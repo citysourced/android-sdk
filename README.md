@@ -1,2 +1,2 @@
 # android-sdk
-The official Android SDK for the CitySourced Platform. Create robust Android applications that integrate directly with CitySourced customers and data.
+The official Android SDK for the OneView Platform. Create robust Android applications that integrate directly with OneView customers and data.
